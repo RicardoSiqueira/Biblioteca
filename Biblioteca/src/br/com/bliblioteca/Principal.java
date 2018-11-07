@@ -18,7 +18,7 @@ public class Principal extends HttpServlet {
 		
 	PrintWriter out = response.getWriter();
 	
-	out.println("Funcionando");
+	out.println("Funcionando2");
 	}
 	
 

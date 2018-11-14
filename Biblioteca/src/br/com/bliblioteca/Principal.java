@@ -18,8 +18,9 @@ public class Principal extends HttpServlet {
 		
 	PrintWriter out = response.getWriter();
 	
-	out.println("Funcionando2");
+	out.println("O sistema esta funcionando");
 	}
+	
 	
 
 }
